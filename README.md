@@ -116,5 +116,13 @@ geçilir.
     atanmalıdır.
 9. Mat dizisinin her bir elemanı için **_print_** fonksiyonu çağrılmalıdır.
 
+## Ödev İçerik Detayı
+
+![Nesneye Dayalı Programlama - Ödev1_Sayfa_1](https://user-images.githubusercontent.com/50529546/124367517-874eed80-dc60-11eb-9c15-a12da0f28ab4.jpg)
+![Nesneye Dayalı Programlama - Ödev1_Sayfa_2](https://user-images.githubusercontent.com/50529546/124367522-8b7b0b00-dc60-11eb-9b07-e5af7534591b.jpg)
+![Nesneye Dayalı Programlama - Ödev1_Sayfa_3](https://user-images.githubusercontent.com/50529546/124367523-8c13a180-dc60-11eb-98f0-6d425327923d.jpg)
+![Nesneye Dayalı Programlama - Ödev1_Sayfa_4](https://user-images.githubusercontent.com/50529546/124367524-8cac3800-dc60-11eb-8243-51accc4b2e9c.jpg)
+
+## Ödev Pdf Linki
 
 [Nesneye Dayalı Programlama - Ödev1.pdf](https://github.com/bhrcfth42/Matrix-and-Operator-Overloading/files/6759072/Nesneye.Dayali.Programlama.-.Odev1.pdf)
