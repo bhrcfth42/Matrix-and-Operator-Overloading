@@ -115,3 +115,6 @@ geçilir.
 8. += operatörü Mat[3] ve Mat[1] nesnesi için çağrılmalı ve sonuç Mat[3] nesnesine
     atanmalıdır.
 9. Mat dizisinin her bir elemanı için **_print_** fonksiyonu çağrılmalıdır.
+
+
+[Nesneye Dayalı Programlama - Ödev1.pdf](https://github.com/bhrcfth42/Matrix-and-Operator-Overloading/files/6759072/Nesneye.Dayali.Programlama.-.Odev1.pdf)
